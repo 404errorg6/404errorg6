@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Fahad
 
-I'm a backend developer who loves building robust systems, fun side projects, and tools that solve real problems.
+I'm a backend developer who loves building robust systems, fun side projects, and tools that solve real problems.  
 
 **🚀 My tech stack**  
 
@@ -14,7 +14,8 @@ I specialize in backend engineering, recently completed the **Boot.dev** backend
 * 🐇 **Rabbitmq:** To make apps and services with Pub/Sub architecture.
 * ☁️ **AWS S3 and Cloudfront:** Using S3 for serverless storage of data and security while Cloudfront as CDN for caching, low latencies and reverse proxy for better protection.
 
-**🛠️ What I'm Building**
+**🛠️ What I'm Building**  
+
 I believe in "learning by doing." My repositories are a mix of:
 * **The Fun Stuff:** Games, creative coding, and cool experiments.
 * **The Necessary Stuff:** Automation scripts and utilities I needed for myself.

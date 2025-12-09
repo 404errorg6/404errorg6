@@ -9,7 +9,7 @@ I specialize in backend engineering, recently completed the **Boot.dev** backend
 * 🐍 **Python:** High level language for fast scripting and automation.
 * ⚙️ **C:** For raw performance and low level control with minimum overhead.
 * 🧱 **C++:** For object oriented based programming requiring C++.
-* 🗄️ **SQL:** Database manipulation with queries, storage and managment of data.
+* 🗄️ **SQL:** Database manipulation with queries, storage and management of data.
 * 🐳 **Docker:** Containerization with docker and managing them.
 * 🐇 **Rabbitmq:** To make apps and services with Pub/Sub architecture.
 * ☁️ **AWS S3 and Cloudfront:** Using S3 for serverless storage of data and security while Cloudfront as CDN for caching, low latencies and reverse proxy for better protection.

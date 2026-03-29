@@ -15,6 +15,6 @@ I specialize in backend engineering, recently completed the **Boot.dev** backend
 **🛠️ What I'm Building**  
 
 I believe in "learning by doing." My repositories are a mix of:
-* **The Fun Stuff:** Games, creative coding, and cool experiments.
-* **The Necessary Stuff:** Automation scripts and utilities I needed for myself.
-* **The Heavy Lifting:** Backend servers, database integrations, and REST APIs.
+* **The Fun Stuff:** Apps that I made to prank my friends.
+* **The Necessary Stuff:** Automation scripts and apps that I needed but couldn't find.
+* **The Learning Stuff:** Apps and utilities I made to get my hands dirty with certain concepts.

@@ -7,8 +7,6 @@ I'm a backend developer who loves building robust systems, fun side projects, an
 I specialize in backend engineering, recently completed the **Boot.dev** backend curriculum with full knowledge and understanding of:
 * 🐹 **Go (Golang):** For concurrency, high-performance services, and CLI tools.
 * 🐍 **Python:** High level language for fast scripting and automation.
-* ⚙️ **C:** For raw performance and low level control with minimum overhead.
-* 🧱 **C++:** For object oriented based programming requiring C++.
 * 🗄️ **SQL:** Database manipulation with queries, storage and management of data.
 * 🐳 **Docker:** Containerization with docker and managing them.
 * 🐇 **Rabbitmq:** To make apps and services with Pub/Sub architecture.
